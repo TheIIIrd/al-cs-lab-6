@@ -1,4 +1,4 @@
-# al-cs-lab-6
+# **al-cs-lab-6**
 LINQ
 
 ## Project structure
