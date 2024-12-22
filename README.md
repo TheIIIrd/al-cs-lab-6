@@ -4,12 +4,12 @@ LINQ
 ## Project structure
 ```
 .
-├── .gitignore
 ├── LICENSE
 ├── README.md
-└── WeatherApp
-    ├── Program.cs
-    └── WeatherApp.csproj
+└── src
+    └── WeatherApp
+        ├── Program.cs
+        └── WeatherApp.csproj
 ```
 
 ## License
